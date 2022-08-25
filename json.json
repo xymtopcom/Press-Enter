@@ -1,0 +1,8 @@
+{
+    "name": "xymtop",
+    "age": 20,
+    "address": {
+        "country": "china"
+    },
+    "lang":["js","php","java","golang"]
+}
